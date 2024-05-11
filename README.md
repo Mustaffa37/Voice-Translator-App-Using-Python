@@ -1,6 +1,6 @@
-# Real-Time-Voice-Translator-in-Python
+# Voice-Translator-in-Python
 
-This repository contains a voice translator application built in Python. The application allows users to input voice commands, detects the language of the input, translates the text into the desired destination language using the Google Translate API, and reads out the translated text while also displaying it in the console.
+This Python-based voice translator application enables users to input voice commands. It automatically detects the language of the input, translates the text into the desired destination language using the Google Translate API, and then audibly reads out the translated text while also displaying it in the console.
 
 ## Features
 
@@ -66,7 +66,6 @@ python Translator.py
 
 6. Repeat steps 4 and 5 for any additional translation requests.
 
-## License
 
 This project is licensed under the [MIT License](LICENSE).
 
